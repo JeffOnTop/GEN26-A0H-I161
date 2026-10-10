@@ -1,0 +1,49 @@
+Harpreet Kaur Channi, Ramandeep Sandhu, Shubham Mahajan,
+Chapter 18 - Integrating bio-inspired intelligence with digital twins: a roadmap for smart healthcare 2.0,
+Editor(s): Ramesh Chandra Poonia, Kamal Upreti,
+In Advances in ubiquitous sensing applications for healthcare,
+Smart Healthcare 2.0,
+Academic Press,
+2026,
+Pages 367-388,
+ISBN 9780443452826,
+https://doi.org/10.1016/B978-0-443-45282-6.00020-3.
+(https://www.sciencedirect.com/science/article/pii/B9780443452826000203)
+Abstract: The digital twin and bio-inspired intelligence (BII) is a new step forward for Smart Healthcare 2.0. This chapter will attempt to analyze the possibilities that these technologies present to improved healthcare systems in the following ways: facilitating the development of efficient, personalized, and predictive treatment modalities. Algorithms that are based on natural processes can be used in order to enhance clinical decision-making, as well as in screening for the use of treatment plans through bio-inspired intelligence. On the other hand, digital twins help to generate patient-specific real-time models, which consider the medical conditions and outcome and forecast results, generating a powerful framework to observe and optimize therapeutic procedures continuously and consider ethical and legal issues. In an attempt to ensure that these advances are put in place in a responsible manner, it is urgent that we see legislators, technologists, and healthcare practitioners working hand in hand. With the combination of BII and digital twins, flexible healthcare is possible. This study also considers optimization of real-time data tracking and predictive analysis.
+Keywords: Al in healthcare; personalized medicine; digital twins; smart healthcare 2.0; bio-inspired intelligence; AI in healthcare; bio-inspired iIntelligence; predictive analytics
+
+Zaopeng Dong, Sihang Lu, Zhihao Hu, Wangsheng Liu, Yilun Ding, Yuanchang Liu,
+A novel digital twin model based bio-heuristic sliding mode control algorithm for trajectory tracking control of USV in the presence of complex marine environment disturbance,
+Robotics and Autonomous Systems,
+Volume 195,
+2026,
+105219,
+ISSN 0921-8890,
+https://doi.org/10.1016/j.robot.2025.105219.
+(https://www.sciencedirect.com/science/article/pii/S0921889025003161)
+Abstract: The trajectory tracking control problem of unmanned surface vessel (USV) under the complex marine environmental disturbance is discussed in this paper, and a novel digital twin model based bio-heuristic sliding mode control (SMC) algorithm integrated with a radial basis function neural network (RBFNN) disturbance compensation module is proposed. An adaptive forgetting factor, which varies with the prediction errors of state variables, is introduced and integrated into the recursive least squares (RLS) algorithm. Meanwhile, a digital twin model of USV is established by applying the proposed adaptive forgetting factor recursive least squares (AFF-RLS) algorithm, and utilizing state variable data and control commands. An improved bio-heuristic approximation function is presented to approach the virtual velocity control laws, avoiding abrupt change and jittering of the SMC algorithm designed based on the digital twin model. Set the angular and linear velocity variables as inputs, environment disturbances and modeling errors compensation as outputs, the RBFNN based integrated control compensator is presented, where the minimum parameter learning method is implemented by replacing the adjustment of neural network weights with parameter estimation to reduce redundant parameters. The effectiveness of the proposed algorithm is validated through extensive simulation experiments, demonstrating its robustness in real marine environment disturbance.
+Keywords: Unmanned surface vessel (USV); Trajectory tracking control; Adaptive forgetting factor recursive least square (AFF-RLS); Digital twin model; Sliding mode control (SMC); Radial basis function neural network (RBFNN)
+
+Mohammad (Behdad) Jamshidi, Dinh Thai Hoang, Diep N. Nguyen, Dusit Niyato, Majid Ebrahimi Warkiani,
+Revolutionizing biological digital twins: Integrating internet of bio-nano things, convolutional neural networks, and federated learning,
+Computers in Biology and Medicine,
+Volume 189,
+2025,
+109970,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2025.109970.
+(https://www.sciencedirect.com/science/article/pii/S001048252500321X)
+Abstract: Digital twins (DTs) are advancing biotechnology by providing digital models for drug discovery, digital health applications, and biological assets, including microorganisms. However, the hypothesis posits that implementing micro- and nanoscale DTs, especially for biological entities like bacteria, presents substantial challenges. These challenges stem from the complexities of data extraction, transmission, and computation, along with the necessity for a specialized Internet of Things (IoT) infrastructure. To address these challenges, this article proposes a novel framework that leverages bio-network technologies, including the Internet of Bio-Nano Things (IoBNT), and decentralized deep learning algorithms such as federated learning (FL) and convolutional neural networks (CNN). The methodology involves using CNNs for robust pattern recognition and FL to reduce bandwidth consumption while enhancing security. IoBNT devices are utilized for precise microscopic data acquisition and transmission, which ensures minimal error rates. The results demonstrate a multi-class classification accuracy of 98.7% across 33 bacteria categories, achieving over 99% bandwidth savings. Additionally, IoBNT integration reduces biological data transfer errors by up to 98%, even under worst-case conditions. This framework is further supported by an adaptable, user-friendly dashboard, expanding its applicability across pharmaceutical and biotechnology industries.
+Keywords: Biotechnology; Computer vision; Artificial neural networks; Convolutional neural networks (CNN); Digital twins; Decentralized computing; Deep learning; Federated learning; Internet of Bio-Nano Things (IoBNT)
+
+Donya Ghavami, Nicola Giulietti, Giuseppina Sandri, Hermes Giberti,
+A decade of innovation in healthcare: Automation, bio-printing and digital twin technologies for personalized therapies,
+International Journal of Pharmaceutics: X,
+Volume 11,
+2026,
+100526,
+ISSN 2590-1567,
+https://doi.org/10.1016/j.ijpx.2026.100526.
+(https://www.sciencedirect.com/science/article/pii/S2590156726000460)
+Abstract: Advanced therapy medicinal products (ATMPs) face a distinct manufacturing challenge: delivering patient-specific therapies with reproducible quality, acceptable cost, and GMP-compliant manufacturing control. This narrative review examines how, over the past decade, the manufacturing of these therapies has moved from operator-dependent, open workflows toward more automated, closed or functionally closed, and increasingly data-supported process architectures. Three converging technology streams are discussed: (i) closed and semi-closed automated platforms for GMP-compliant cell manufacturing, (ii) advanced bioprinting and 3D manufacturing systems for tissue-engineered products, and (iii) digital twin concepts and related data-driven strategies as emerging enabling layers for monitoring, traceability, and process support. Across these domains, the dominant engineering trend is a shift from standalone equipment toward integrated frameworks aimed at reducing operator dependence, improving reproducibility, and strengthening GMP readiness. Overall, the field is shifting from isolated tools to more coordinated, automation-oriented, and increasingly data-supported workflows.
+Keywords: ATMPs; GMP; Automation; Bioprinter; 3D printer; Digital twin; Data-driven
